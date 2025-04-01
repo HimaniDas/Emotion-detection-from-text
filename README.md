@@ -1,13 +1,5 @@
 # Emotion Detection from text using PyTorch
 
-## Collaborators
-
-Name | Slack handle |
---- | --- |
-Karan Kishinani | @Karan Kishinani |
-Kapil Chandorikar | @Kapil Chandorikar |
-Aditya Kumar | @Aditya kumar |
-
 ## Project Notebook
 
 Open project [notebook](Emotion_detection_from_text_using_PyTorch.ipynb).
